@@ -1,0 +1,6 @@
+Answer 1: 0.9.5
+Answer 2: sha256:3a8df9e5902315f8e7cdee68be4c332e7f704ed5986d679cde00db395ce8e726
+Answer 3: 0.533
+Answer 4: 0.534
+Answer 5: 121MB
+Answer 6: 0.534

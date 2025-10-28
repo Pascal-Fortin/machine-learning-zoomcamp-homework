@@ -1,0 +1,11 @@
+import requests
+
+url = "http://localhost:8000/predict"  # or replace with your public URL if deployed
+client = {
+    "lead_source": "organic_search",
+    "number_of_courses_viewed": 4,
+    "annual_income": 80304.0
+}
+
+response = requests.post(url, json=client)
+print(response.json())
